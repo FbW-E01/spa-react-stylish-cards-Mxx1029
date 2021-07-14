@@ -1,0 +1,19 @@
+{
+  "name": "spa-react-stylish-cards-mxx1029",
+  "version": "1.0.0",
+  "description": "- Initialize the react app from scratch - Use functional components - Create the four different cards using four different techniques.  - You don't have to follow the example exactly, but do actually make all of them distinctly different. - Use separate components for separate cards, such as `<StyledComponentsCard />`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FbW-E01/spa-react-stylish-cards-Mxx1029.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FbW-E01/spa-react-stylish-cards-Mxx1029/issues"
+  },
+  "homepage": "https://github.com/FbW-E01/spa-react-stylish-cards-Mxx1029#readme"
+}
